@@ -23,6 +23,7 @@
   - Debian được hỗ trợ nhờ các khoản quyên góp thông qua tổ chức *Software in the Public Interest* - một tổ chức bảo trợ phi lợi nhuận cho các dự án phát triển phần mềm tự do.
   
   - Trang chủ :  https://www.debian.org/
+  
   - Phiên bản mới nhất :**Debian 9.9** ( 27-04-2019 )
   - Giao diện Desktop :
 
@@ -73,5 +74,5 @@
        <img src="https://camo.githubusercontent.com/8c203682a7f8c72dcb7f556a6bd6a491739ddbb2/68747470733a2f2f692e696d6775722e636f6d2f43776e534e6a5a2e706e67">
        - **MATE**
        <img src="https://camo.githubusercontent.com/1109640619ab4df926d50abdaa82c0b5a5313071/68747470733a2f2f692e696d6775722e636f6d2f636c6c4d7043692e706e67">
-       - **Xfce*
-       <img src="https://camo.githubusercontent.com/670821d776c627be99bbff2c357cdd374684da7c/68747470733a2f2f692e696d6775722e636f6d2f684a4e4e7672512e706e67">
+       - **Xfce**
+       <img src>
