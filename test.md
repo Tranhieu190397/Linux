@@ -23,7 +23,7 @@
   - Debian được hỗ trợ nhờ các khoản quyên góp thông qua tổ chức *Software in the Public Interest* - một tổ chức bảo trợ phi lợi nhuận cho các dự án phát triển phần mềm tự do.
   
   - Trang chủ :  https://www.debian.org/
-  
+
   - Phiên bản mới nhất :**Debian 9.9** ( 27-04-2019 )
   - Giao diện Desktop :
 
@@ -52,7 +52,7 @@
     <img src="https://camo.githubusercontent.com/9244d8447b888b069f7ecbf585d3c5793d8baf41/68747470733a2f2f692e696d6775722e636f6d2f6774444672456f2e6a7067">
 
       - **19.04** :
-       <img src="https://camo.githubusercontent.com/521b21f3dee245da97313da75d8a5e11a609cfe4/68747470733a2f2f692e696d6775722e636f6d2f674177734777552e6a7067">
+    <img src="https://camo.githubusercontent.com/521b21f3dee245da97313da75d8a5e11a609cfe4/68747470733a2f2f692e696d6775722e636f6d2f674177734777552e6a7067">
 
     >### 1.3) Linux Mint
 
