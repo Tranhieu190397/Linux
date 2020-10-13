@@ -1,6 +1,6 @@
 # **Linux**
 
-> **Lưu ý**
+> **Lưu ý** file đã thay đổi
 
 - a
     - a
